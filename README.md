@@ -13,4 +13,4 @@
 
 ## Reference
 [How To Mount Windows Drive In Unbuntu Linux][video] by DevTech Solutions  
-[video]:https://www.youtube.com/watch?v=hIq1dIgZrOc
+[video]: https://www.youtube.com/watch?v=hIq1dIgZrOc
