@@ -12,4 +12,5 @@
 > mount -t ntfs -o ro /dev/sda7 /media/weizikai/
 
 ## Reference  
-[How To Mount Windows Drive In Unbuntu Linux]: https://www.youtube.com/watch?v=hIq1dIgZrOc by DevTech Solutions  
+[How To Mount Windows Drive In Unbuntu Linux]:https://www.youtube.com/watch?v=hIq1dIgZrOc  
+by DevTech Solutions  
